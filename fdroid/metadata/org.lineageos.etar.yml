@@ -1,9 +1,9 @@
-AuthorName: ''
+AuthorName: 'LineageOS'
 Categories:
 - fdroid
 CurrentVersionCode: 2147483647
 IssueTracker: ''
 Name: Calendar
-SourceCode: ''
-Summary: ''
-WebSite: ''
+SourceCode: 'https://www.lineageos.org'
+Summary: 'The official Calendar app from LineageOS. Forked from the Etar project.'
+WebSite: 'https://www.lineageos.org'
