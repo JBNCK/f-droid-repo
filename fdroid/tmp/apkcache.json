@@ -1,0 +1,66 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "org.lineageos.etar_11-30_minAPI30(nodpi)_apkmirror.com.apk": {
+    "hash": "85ccbc5cdd6642e60d2cd10a364271904ca48ad4ec6ecced08518ef8807da520",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.READ_SYNC_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.lineageos.etar",
+    "versionCode": 30,
+    "name": "Calendar",
+    "versionName": "11",
+    "minSdkVersion": 30,
+    "targetSdkVersion": 30,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 5434858,
+    "apkName": "org.lineageos.etar_11-30_minAPI30(nodpi)_apkmirror.com.apk",
+    "added": 1697653399.591861
+  }
+}
